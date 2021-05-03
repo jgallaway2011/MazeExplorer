@@ -1,11 +1,5 @@
 # Maze Explorer
-Welcome Ancient Ruins Explorer!
-
-We’ve identified a mysterious chamber deep underground our excavation site. The artifacts held within this chamber would be a considerable addition to the local museum…
-
-Unfortunately, the chamber lies at the heart of a twisted maze. We’re using a graph data structure to model the ruins. We’ll need your expertise to map out the chambers as we move through them.
-
-With your help, we’ll find the optimal path to the chamber before our torch burns out.
+A program using the graph data strucute to model the rooms of some ancient ruins.  Travel between rooms comes witha cost and it the objective is to get to the treasure room at the lowest cost.
 
 ## Usage
 
